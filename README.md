@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mí
 
-- Estudiante de **Ingeniería Estadística (penúltimo año)** — USACH ➜ UCM.  
+- Estudiante de **Ingeniería Estadística** — USACH ➜ UCM.  
 - Interés en **fundamentos de la estadística** y **ecuaciones diferenciales estocásticas**.  
 - Enfoque en **reproducibilidad** (Quarto/Markdown) y **prototipado ágil** (Colab/Shiny).
 
