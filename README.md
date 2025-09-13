@@ -20,7 +20,6 @@
 ![Quarto](https://img.shields.io/badge/Quarto-2D2D2D?logo=quarto&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 ---
