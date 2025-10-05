@@ -38,6 +38,6 @@
 
 ---
 
-## 📈 Estadíticas
+## 📈 Estadísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MValenzuelaN&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
