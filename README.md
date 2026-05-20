@@ -57,7 +57,7 @@
 [![Google AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)&nbsp;
 [![Prism | OpenAI](https://img.shields.io/badge/Prism_%7C_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/es-ES/prism/)&nbsp;
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)&nbsp;
-[![Antigravity](https://img.shields.io/badge/Antigravity-1A1A2E?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.google/)&nbsp;
+[![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-1A1A2E?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.google/product/antigravity-ide)&nbsp;
 [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
 
 ### 🔧 Control de Versiones & Colaboración
