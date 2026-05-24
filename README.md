@@ -34,7 +34,7 @@
 
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)&nbsp;
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)](https://es.wikipedia.org/wiki/SQL)&nbsp;
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)](https://www.iso.org/standard/76583.html)&nbsp;
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)&nbsp;
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
@@ -58,13 +58,14 @@
 [![Prism | OpenAI](https://img.shields.io/badge/Prism_%7C_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/es-ES/prism/)&nbsp;
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)&nbsp;
 [![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-1A1A2E?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.google/product/antigravity-cli)&nbsp;
-[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
+[![Open Code](https://img.shields.io/badge/Open_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://opencode.ai/)
 
 ### 🔧 Control de Versiones & Colaboración
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)&nbsp;
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)&nbsp;
+[![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)](https://mermaid.js.org/)
 
 </div>
 
