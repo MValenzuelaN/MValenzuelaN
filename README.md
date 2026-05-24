@@ -81,8 +81,8 @@
 | :--- | :---: | :---: |
 | 🎤 Exposición · RShiny como herramienta para la enseñanza de los modelos lineales | JNEDES | 2025 |
 | 🔬 Miembro comité científico | JNEDES | 2025 |
-| 🧑‍🏫 Ayudante · Inferencia Estadística | USACH | 2024 |
-| 🧑‍🏫 Ayudante · Inferencia Estadística | UCM | 2023 |
+| 🧑‍🏫 Ayudante · Inferencia Estadística para Ingeniería en Estadística (IES) | UCM | 2023 |
+| 🧑‍🏫 Ayudante · Inferencia Estadística para Ingeniería Estadística (INGESTA) | USACH | 2022 |
 | 🥇 **1° lugar nacional** · Olimpiada de Astronomía y Astronáutica | OAA Chile | **2018** |
 | 🏅 Participación nacional · Olimpiada de Física | IPhO Chile | 2017 |
 | 🥇 **1° lugar nacional** · Olimpiada de Astronomía y Astronáutica | OAA Chile | **2014** |
