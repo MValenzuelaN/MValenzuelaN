@@ -106,9 +106,6 @@
 ## 📌 Repositorios Destacados
 
 <div align="center">
-  <a href="https://github.com/MValenzuelaN/Plantilla_informes_PyQuarto">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MValenzuelaN&repo=Plantilla_informes_PyQuarto&theme=algolia"/>
-  </a>
   <a href="https://github.com/MValenzuelaN/TPE-pequenno-resumen">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MValenzuelaN&repo=TPE-pequenno-resumen&theme=algolia"/>
   </a>
