@@ -48,6 +48,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)&nbsp;
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/es-es/sql-server/)&nbsp;
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![TeXstudio](https://img.shields.io/badge/TeXstudio-1A237E?style=flat-square&logo=latex&logoColor=F9A825)](https://texstudio.org/)&nbsp;
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)&nbsp;
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
@@ -58,7 +59,7 @@
 [![Prism | OpenAI](https://img.shields.io/badge/Prism_%7C_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/es-ES/prism/)&nbsp;
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)&nbsp;
 [![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-1A1A2E?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.google/product/antigravity-cli)&nbsp;
-[![Open Code](https://img.shields.io/badge/Open_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://opencode.ai/)
+[![Open Code](https://img.shields.io/badge/Open_Code-1A1A2E?style=flat-square&logo=windowsterminal&logoColor=white)](https://opencode.ai/)
 
 ### 🔧 Control de Versiones & Colaboración
 
